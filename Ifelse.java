@@ -85,7 +85,7 @@ public class Ifelse {
             System.out.println("you are a dinosaur!");
         }
     }
-    /*textLength methode is stuk : Geeft geen ouput. Ik weet niet zeker of de string
+    /*textLength methode lijkt stuk : Geeft geen ouput van String(regel 8). Ik weet niet zeker of de string
     berekening in main wel goed gaat, en hoe dat hier beneden doorwerkt.*/
     public static void textLength(int phraseLength) {
         if (phraseLength >= 0 && phraseLength <= 10) {
