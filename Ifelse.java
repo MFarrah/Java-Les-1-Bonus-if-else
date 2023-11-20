@@ -24,16 +24,6 @@ public class Ifelse {
         ageGrade(aGrade);
         textLength(phraseLength);
 
-
-
-
-        //Opdracht 7: Jaar Checker
-
-        //Opdracht 8: Grootste van Drie Getallen
-
-        //Opdracht 9: Driehoekstype
-
-        //Opdracht 10: Calculator
     }
 
     public static void evenOddChecker(int number) {
@@ -111,8 +101,8 @@ public class Ifelse {
         Schrijf een programma dat de grootste van drie ingevoerde getallen bepaalt.*/
 
     /*Opdracht 9: Driehoekstype
-    Schrijf een methode dat de lengtes van de zijden van een driehoek accepteert en bepaalt of de driehoek gelijkzijdig, gelijkbenig of ongelijkzijdig is.
+    Schrijf een methode dat de lengtes van de zijden van een driehoek accepteert en bepaalt of de driehoek gelijkzijdig, gelijkbenig of ongelijkzijdig is.*/
 
-    Opdracht 10: Calculator
+    /*Opdracht 10: Calculator
     Schrijf een eenvoudige rekenmachine-methode die als parameters twee getallen en een operator (+, -, *, /) accepteert en vervolgens het resultaat van de berekening weergeeft. */
 }
