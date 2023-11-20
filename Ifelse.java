@@ -15,7 +15,7 @@ public class Ifelse {
         number2 = 38;
         grade = 7;
         aGrade = 72;
-        phraseLength = pwString.length();
+      
 
         evenOddChecker(number);
         grader(grade);
